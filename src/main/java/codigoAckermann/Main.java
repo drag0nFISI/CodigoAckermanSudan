@@ -31,7 +31,7 @@ public class Main {
 
         if (m >= 4 || (m == 3 && n > 10)) {
         System.out.println("!!!!!!! ADVERTENCIA: ");
-        System.out.println("\t El calculo puede consumir demasiada memoria y demorar mucho. Esto sucede cuando es mayor a 4 y/o n mayor a 10");
+        System.out.println("\t El calculo puede consumir demasiada memoria y demorar mucho. Esto sucede cuando 'm' es mayor a 4 y/o 'n' mayor a 10");
         }
 
         long inicio = System.currentTimeMillis();

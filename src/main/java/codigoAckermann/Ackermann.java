@@ -41,7 +41,7 @@ public class Ackermann {
         if (m == 1) return "n+2";
         if (m == 2) return "2n+3";
         if (m == 3) return "(2^n+3)-3";
-        return "hiper-exponencial";
+        return "hiper exponencial";
     }
 }
 
